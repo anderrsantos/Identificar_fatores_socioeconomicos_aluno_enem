@@ -158,3 +158,6 @@ Para cada modelo, são calculadas e exibidas:
 - `random_state=42` é fixado em todos os pontos de aleatoriedade para
   garantir a **reprodutibilidade** dos experimentos.
 - A análise SHAP pode demorar alguns minutos devido ao `KernelExplainer` da MLP.
+
+## Licença
+Este projeto é disponibilizado para fins acadêmicos e educacionais.
